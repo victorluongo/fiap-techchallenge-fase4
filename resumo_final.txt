@@ -1,0 +1,23 @@
+Resumo Final da Análise de Atividades e Emoções
+
+Total de frames analisados: 3326
+
+Número de anomalias (movimento anomalo): 3
+
+Total de cenas analisadas: 23
+ - acenando: 1 cena(s)
+ - aperto maos: 1 cena(s)
+ - concordando: 2 cena(s)
+ - dancando: 1 cena(s)
+ - lendo: 2 cena(s)
+ - movimento anomalo: 3 cena(s)
+ - nenhuma: 13 cena(s)
+
+Ocorrências de emoções detectadas: 3326
+ - angry: 373
+ - disgust: 2
+ - fear: 1036
+ - happy: 744
+ - neutral: 1308
+ - sad: 1479
+ - surprise: 161

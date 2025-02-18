@@ -1,0 +1,12 @@
+Total de frames analisados: 3326
+
+Número de anomalias (movimento anomalo): 3
+
+Total de cenas analisadas: 23
+ - acenando: 1 cena(s)
+ - aperto maos: 1 cena(s)
+ - concordando: 2 cena(s)
+ - dancando: 1 cena(s)
+ - lendo: 2 cena(s)
+ - movimento anomalo: 3 cena(s)
+ - nenhuma: 13 cena(s)

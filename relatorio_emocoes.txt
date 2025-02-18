@@ -1,0 +1,10 @@
+Total de frames analisados: 3326
+
+Ocorrências de emoções detectadas: 3326
+ - angry: 373
+ - disgust: 2
+ - fear: 1036
+ - happy: 744
+ - neutral: 1308
+ - sad: 1479
+ - surprise: 161
